@@ -1,2 +1,25 @@
 # D2C_start-up
-A D2C startup develops products using cutting-edge technologies like Web 3.0. Over the past few months, the company has started multiple marketing campaigns offline and digital both. As a result, the users have started showing interest in the product on the website. These users with intent to buy product(s) are generally known as leads (Potential Customers). Direct leads are captured via forms embedded in the website while indirect leads are captured based on certain activity of a user on the platform such as time spent on the website, number of user sessions, etc. Now, the marketing & sales team wants to identify the leads who are more likely to buy the product so that the sales team can manage their bandwidth efficiently by targeting these potential leads and increasing the sales in a shorter span of time. Now, as a data scientist, your task at hand is to predict the propensity to buy a product based on the user's past activities and user level information. Objective identifying the potential leads for a D2C startup?
+The task involves using machine learning techniques to analyze user activities, past purchases, and other features to predict whether a lead is likely to make a purchase in the next 3 months.
+
+Here's a breakdown of the key sections in the repository based on the provided content:
+
+Objective:
+
+The primary goal is to identify potential leads for a D2C startup by predicting their likelihood to buy a product.
+Data Dictionary:
+
+Describes the fields in the training, testing, and submission datasets, including unique identifiers, dates, campaign information, past products purchased, user activities, and the target variable (buy).
+Table of Content:
+
+Outlines the structure of the project with different steps.
+Steps:
+
+Step 1: Importing Relevant Libraries
+Step 2: Data Inspection
+Step 3: Data Cleaning
+Step 4: Exploratory Data Analysis
+Step 5: Feature Engineering
+Step 6: Building Model
+Mathematical Expression:
+
+There seems to be an incomplete expression: "pow(x, y, z)". If this is not a placeholder, it might be a mathematical function used in the project. You may need to check its context within the code.
